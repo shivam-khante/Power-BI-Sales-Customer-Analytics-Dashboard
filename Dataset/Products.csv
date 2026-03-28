@@ -1,0 +1,11 @@
+﻿ProductID,ProductName,SubCategory,Category,Brand,UnitCost,ProfitMargin,LaunchDate
+PROD-001,Smartphone,Mobiles,Electronics,Samsung,6134.81,0.17,01-Jun-19
+PROD-002,Laptop,Computers,Electronics,Dell,8934.48,0.17,01-Jan-22
+PROD-003,Headphones,Accessories,Electronics,Boat,8733.28,0.13,05-Feb-20
+PROD-004,Sneakers,Shoes,Fashion,Nike,9973.06,0.1,18-Aug-20
+PROD-005,T-Shirt,Clothing,Fashion,Puma,1519.4,0.1,20-Aug-20
+PROD-006,Table Lamp,Furniture,Home,Philips,9816.64,0.23,15-Jun-20
+PROD-007,Cookware Set,Kitchen,Home,Hawkins,4751.01,0.14,02-Feb-23
+PROD-008,Rice,Food,Grocery,Fortune,6045.78,0.12,15-Oct-21
+PROD-009,Shampoo,Personal Care,Grocery,Dove,12884,0.14,05-May-22
+PROD-010,Yoga Mat,Fitness,Sports,Decathlon,234.55,0.18,21-Dec-19
