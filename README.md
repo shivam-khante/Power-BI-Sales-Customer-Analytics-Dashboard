@@ -2,7 +2,8 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+<img width="1433" height="804" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/46df069e-1771-4b36-af4e-8b090f66fba9" />
+
 
 ---
 
